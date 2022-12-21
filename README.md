@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Robert S.
+- 👀 I’m interested in software engineering, development and architecture.
+- 🌱 I’m currently learning Python
